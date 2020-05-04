@@ -11,5 +11,4 @@ Credits :
   - Music by Nuke of Anarchy from the same name demo
   
 Greets :
-
-    - Complex, Futur Crew, Iguana, Legend Design, Melon, Orange, Paradox, Rebel, Scoopex, Trsi, and all others famous demoscene teams
+  - Complex, Futur Crew, Iguana, Legend Design, Melon, Orange, Paradox, Rebel, Scoopex, Trsi, and all others famous demoscene teams
